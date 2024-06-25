@@ -1,1 +1,1 @@
-# Titanic-kaggle-uygulamas-
+# Titanic-kaggle-uygulaması-
